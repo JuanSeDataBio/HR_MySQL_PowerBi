@@ -5,4 +5,6 @@ Basic SQL handle and Power BI Dashboard from a HR Data Base
 
 ## Project Overview
 
-The project was perform to analize the information from a Data base 
+The project was done to perform an analize on a HR Data Base, with the objective of provide answer to certain questions, every question was propose to do a general scan of the data to cover topics such as race, age and gender distribution. The general idea was to provide straight asnwers and the data in order to give a report descriptive analysis of the data.
+
+-------------------------------------------------------------------
