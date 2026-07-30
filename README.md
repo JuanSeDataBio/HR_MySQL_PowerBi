@@ -32,3 +32,7 @@ For the data preparation and cleaning phase the following task were done:
 10. How has the company's employee count changed over time based on hire and term dates?
 11. What is the tenure distribution for each department?
 
+## Findings 
++ The gender distribution is males with a 50.97% and female with 46.2% of the total
++ The mayor ethnicity register in the company is mark by White, two or more races, and African American.
++ 
