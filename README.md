@@ -34,5 +34,5 @@ For the data preparation and cleaning phase the following task were done:
 
 ## Findings 
 + The gender distribution is males with a 50.97% and female with 46.2% of the total
-+ The mayor ethnicity register in the company is mark by White, two or more races, and African American.
-+ 
++ The mayor ethnicity register in the company is mark by White (28.53%), two or more races (16.40%), and African American (16.25%), while american Indian and Native Hawaiian reach 5-6% of the entire sample.
++ In terms 
