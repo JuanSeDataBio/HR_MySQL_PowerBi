@@ -35,4 +35,7 @@ For the data preparation and cleaning phase the following task were done:
 ## Findings 
 + The gender distribution is males with a 50.97% and female with 46.2% of the total
 + The mayor ethnicity register in the company is mark by White (28.53%), two or more races (16.40%), and African American (16.25%), while american Indian and Native Hawaiian reach 5-6% of the entire sample.
-+ In regards to the age, we confirm the minimun age resgister is 26 while the maximun is 60 years, showing the organization does not care about or discriminate about age, additionally, according to our age distribution, the most relevant age group is 35-44 years with 29% follow by 25-34 with 28%. 
++ In regards to the age, we confirm the minimun age resgister is 26 while the maximun is 60 years, showing the organization does not care about or discriminate about age, additionally, according to our age distribution, the most relevant age group is 35-44 years with 29% follow by 25-34 with 28%.
++ For the employees register in the data base, 75% are working on the premises, while 25% are working remotely.
++ The avg length of employment for terminated employees is up today 8 Years.
++ 
